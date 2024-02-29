@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/calorie-calculator/",
+  base: "/FINAL_CALORIE_CALC/",
   plugins: [react()],
 })
